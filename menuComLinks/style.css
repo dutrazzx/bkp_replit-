@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: arial;
+  margin: 0;
+  padding: 0;
+}
+.menu {
+  background-color: #1d303e;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  
+}
+a {
+  color: white;
+  margin: 15px;
+  text-decoration: none;
+  a:hover{
+    transform: scale(1.1);
+  }
+
+}
+#vermelho {
+  color: #ff5c5c;
+}
+#verde {
+  color: #6da26d;
+}
+#azul {
+  color: #3e3ea3;
+}
+#amarelo {
+  color : #ffff80;
+}
+.box {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#texto {
+  font-size: 30px;
+  
+}
