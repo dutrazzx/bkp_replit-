@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.titulo {
+  text-align: center;
+}
+
+.alert {
+  flex-direction: left;
+  font-size: 64px;
+}
+
+.caixa2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.caixadeimagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sabermais{
+  background-color: #fffa75;
+  border-radius: 15px;
+}
